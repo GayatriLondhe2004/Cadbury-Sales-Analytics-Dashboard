@@ -38,10 +38,10 @@ Internship: Upskill Campus & UniConverge Technologies Pvt. Ltd.
 ## 📊 Dashboard Screenshots
 
 ### Page 1 — Sales Overview Dashboard
-![Dashboard Page 1](Screenshots/dashboard_page1.png)
+![Dashboard Page 1](dashboard_page1.png)
 
 ### Page 2 — Product Performance Dashboard
-![Dashboard Page 2](Screenshots/dashboard_page2.png)
+![Dashboard Page 2](dashboard_page2.png)
 
 ---
 
